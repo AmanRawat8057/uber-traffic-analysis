@@ -47,7 +47,7 @@ Develop a predictive model to accurately forecast traffic volume using:
 
 ## 🧰 Tools & Libraries Used
 
-- Python 3.9+
+- Python Jupyter notebook
 - Pandas
 - NumPy
 - Matplotlib
